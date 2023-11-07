@@ -1,2 +1,4 @@
 rootProject.name = 'gradle2-basic-multiproject'
 include 'app'
+include 'lib'
+
